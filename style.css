@@ -1,0 +1,39 @@
+body {
+    background-color: gold;
+    padding: 5.625em;
+    padding-bottom: 0.625em;
+    font-family: Helvetica, sans-serif;
+    background-image:url("bg.jpg");
+  }
+  
+  h1 {
+  
+    position: absolute;
+    top: 2em;
+    left: 4.375em;
+    padding:30;
+    background-color:rgb(rgb(50, 47, 58));
+  }
+  
+  p {
+    text-align: top;
+  }
+  
+  #Main {
+    padding: 6.25em;
+    padding-top: 0.625em;
+    padding-left: 4.375em;
+    padding-right: 4.375em;
+    padding-bottom: 8em;
+    background-color: rgb(255, 255, 255);
+  }
+  .Paratitle{
+    font-size: 1.25em;
+    font-style: bold;
+  }
+  
+  img{
+    position: absolute;
+    right:6em;
+    top:5.9em;
+  }
